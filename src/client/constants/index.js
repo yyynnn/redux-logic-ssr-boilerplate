@@ -1,0 +1,1 @@
+export const EXAMPLE_API_URI = 'https://restcountries.eu/rest/v2/'
